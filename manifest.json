@@ -1,0 +1,38 @@
+{
+  "name": "PintarIT.com",
+  "short_name": "pintarit.com",
+  "start_url": "https://www.pintarit.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#31658C",
+  "description": "Menyajikan informasi dan teknologi terbaru seputar Smartphone, Android, Aplikasi, Komputer, Internet, serta informasi lainnya di bidang IT.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-OcuOB8V1v_c/XhxY_HQeIVI/AAAAAAAACN8/im4NkMEm4nwauT6l0fRz9AgcH0uaR_lXgCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8b_U122Xqgk/XhxY9_QlqII/AAAAAAAACN4/Sujv4n0xgIUqAA690TAYFz6C59ksFLotQCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-KeVPt_T8nBk/XhxY8SK9TWI/AAAAAAAACN0/q-1LeKAmUtUVQzwgzmR3GQmw0M07UnLBQCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-XRuAUrXU4UM/XhxY7QeqSsI/AAAAAAAACNs/cbQG3rf_WYcUWAO-VCPI779YvaoOXDW7ACLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vK_cxU3z3GE/XhxY4XNSnUI/AAAAAAAACNg/z8Nk0WVqKI0B2BtLOG-LsOpbhKHpfXEuQCLcBGAsYHQ/s168/apple-icon-180x180.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-9IMsPzS92nY/XhxY585RyXI/AAAAAAAACNk/t5ntLGHREvAOjHGHmO-IpaKCpB3CX3ilgCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qdRA6CdmXyg/XhxYvOn5VaI/AAAAAAAACNI/ne_wYt9pnUkEtPS0YzY1soGMUZb66ryqQCLcBGAsYHQ/s512/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
